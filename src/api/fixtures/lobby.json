@@ -1,0 +1,17 @@
+{
+  "id": "lobby-001",
+  "title": "Weekly Ping Pong Stars meet-up",
+  "sportEmoji": "🏓",
+  "location": "Rütli Schule Kreuzberg",
+  "scheduledAt": "2026-04-02T18:00:00Z",
+  "status": "open",
+  "capacity": 5,
+  "members": [
+    {
+      "id": "user-001",
+      "name": "Ben",
+      "avatarUrl": null,
+      "bio": null
+    }
+  ]
+}

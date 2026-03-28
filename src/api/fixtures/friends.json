@@ -1,0 +1,28 @@
+{
+  "friends": [
+    {
+      "id": "user-002",
+      "name": "Sam",
+      "avatarUrl": null,
+      "bio": null
+    },
+    {
+      "id": "user-003",
+      "name": "Steve",
+      "avatarUrl": null,
+      "bio": "Ping pong only pls."
+    },
+    {
+      "id": "user-004",
+      "name": "Maria",
+      "avatarUrl": null,
+      "bio": "Up for anything"
+    },
+    {
+      "id": "user-005",
+      "name": "James",
+      "avatarUrl": null,
+      "bio": "Football fanatic"
+    }
+  ]
+}
