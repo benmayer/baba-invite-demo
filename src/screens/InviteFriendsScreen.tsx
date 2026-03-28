@@ -110,7 +110,7 @@ export function InviteFriendsScreen({ route, navigation }: Props) {
       await Share.share({
         message:
           `Join my lobby on baba and let's play! 🏓\n\n` +
-          `https://baba.app/join/${lobbyId}`,
+          `https://baba.gg/join/${lobbyId}`,
       });
     } catch {
       // User dismissed the share sheet — no action needed.
